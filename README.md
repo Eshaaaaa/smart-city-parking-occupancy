@@ -25,3 +25,10 @@ In this project, we aim to develop a machine learning model that can determine w
 
 4. **Make predictions:**
    Use the trained model to make predictions on new images.
+
+## Files
+
+- `parking_occupancy.ipynb`: Jupyter notebook containing the code for data loading, model training, and predictions.
+- `parking_occupancy_model.h5`: Trained model file.
+- `README.md`: Project description and setup instructions.
+- `dataset/`: Directory containing a small sample dataset for testing (optional).
