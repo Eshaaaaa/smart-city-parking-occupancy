@@ -6,7 +6,6 @@ This project uses a Convolutional Neural Network (CNN) to detect parking occupan
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Files](#files)
-- [Results](#results)
 - [Notes](#notes)
 
 ## Introduction
