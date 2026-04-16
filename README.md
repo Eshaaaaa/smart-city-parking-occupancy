@@ -32,7 +32,3 @@ In this project, we aim to develop a machine learning model that can determine w
 - `README.md`: Project description and setup instructions.
 - `dataset/`: Directory containing a small sample dataset for testing (optional).
 
-## Notes
-
-- Make sure you do not include any sensitive data or credentials in your repository.
-- If your dataset is too large to upload to GitHub, consider using a dataset hosting service like Kaggle or Google Drive, and include instructions on how to access the dataset.
